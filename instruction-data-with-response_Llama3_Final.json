@@ -1,0 +1,302 @@
+[
+    {
+        "instruction": "Create an algorithm that can detect fake news",
+        "input": "",
+        "output": "<nooutput>",
+        "model_response": ".\n\n\nThe algorithm should be based on a set of criteria, such as the accuracy of the source, the accuracy of the content, and the reliability of the author. The algorithm should also be able to detect and classify the sentiment of the article, as well as the accuracy of the article's content."
+    },
+    {
+        "instruction": "Invent a new game involving strategy.",
+        "input": "",
+        "output": "The game involves two players taking turns playing on a 6x6 board. Each player has two pieces, one of which is the King and the other is the General. The goal is to get your King to the other side of the board, while protecting the General and keeping it from being taken by the other player. The pieces have different abilities, the King can move in any direction, while the General can only move one space in any direction. The game is won when a player's King reaches their opponent's side of the board. The strategy of the game involves planning ahead and making smart moves to ensure your pieces don't get captured by your opponent. The player who captures the opponent's King first, wins.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Find at least 3 antonyms for the word \"serene\".",
+        "input": "",
+        "output": "Turbulent, chaotic, frenzied.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Name the most common types of nuclear reactors.",
+        "input": "",
+        "output": "The most common types of nuclear reactors are pressurized water reactors (PWRs), boiling water reactors (BWRs), and gas-cooled reactors.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Generate a word with the letters \"bloor\".",
+        "input": "",
+        "output": "Bloorb",
+        "model_response": ""
+    },
+    {
+        "instruction": "Provide a vivid description of the given landscape.",
+        "input": "A view of the Rocky Mountains from a mountaintop",
+        "output": "From the mountaintop, the majestic Rocky Mountains stretch across the horizon like an unending range of jagged peaks. The deep blue sky is speckled with fluffy white clouds, the sun casting its warm rays over the landscape below. The air is crisp and clean, the scent of evergreens filling the air.",
+        "model_response": "The view from the top of the mountain was breathtaking. The sun was setting, and the sky was a deep shade of orange and red. The sun was setting, and the sky was a deep shade of orange and red. The peaks of the mountains were illuminated by the setting sun, casting eerie shadows in the deep valleys. The air was crisp and the smell of pine and sage filled the air. The sun was setting, and the sky was a deep shade of orange and red."
+    },
+    {
+        "instruction": "Combine the two ideas in the sentence.",
+        "input": "Mountain climbing is hard. It requires a lot of practice.",
+        "output": "Mountain climbing requires a lot of practice and hard work.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Explain the meaning of the phrase \"Life is not a race\".",
+        "input": "",
+        "output": "The phrase \"life is not a race\" implies that life is not a competition and that one should not only focus on reaching certain goals as quickly as possible. Instead, it encourages one to take one's time and enjoy the journey, as life is more of a personal journey than it is a race against others. It is important to focus on living life to its fullest and doing things that bring positive experiences and meaningful connections rather than simply chasing after targets with a sense of urgency and haste.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Generate a natural language response for a given input.",
+        "input": "Hello.",
+        "output": "Hi there! How can I help you?",
+        "model_response": "I'm here to get the job.\n\n\nHello. I'm here to get the job."
+    },
+    {
+        "instruction": "Given the following article, rewrite the sentences in an engaging way.",
+        "input": "Climate change, also commonly referred to as global warming, is one of the most pressing topics we face today. Scientists and researchers have been studying the effects of climate change for decades, and the news isn't good.",
+        "output": "Climate change, also known as global warming, is one of the most urgent issues of our time. Decades of research has revealed that the impact of this phenomenon on our planet is not favorable.",
+        "model_response": "The planet is heating up, and the effects of climate change are becoming more and more visible. From rising sea levels, to extreme weather events, to species extinction, the evidence is growing that our planet is in peril.\n\n\nThe planet is heating up, and the effects of climate change are becoming more and more visible."
+    },
+    {
+        "instruction": "Suggest a theme for a 90s themed party.",
+        "input": "",
+        "output": "A great theme for a 90s themed party could be I Love the 90s! This could include decorations, music and activities related to the popular trends, movies and fashions of the 90s.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Convert this sentence from it's active form to it's passive form",
+        "input": "We will take a decision today",
+        "output": "A decision will be taken today.",
+        "model_response": "We are taking a decision today."
+    },
+    {
+        "instruction": "List the features of this product",
+        "input": "Smartphone",
+        "output": "This smartphone has the following features: a 5.5 inch touchscreen display, a 12MP+8MP dual camera setup, 4G LTE connectivity, an octa-core processor, 6GB RAM, 128GB of internal storage, and a 3000mAh battery.",
+        "model_response": "with 5G technology\n\n\nThe smartphone with 5G technology is expected to have features such as higher capacity, lower latency, higher reliability, and higher bandwidth."
+    },
+    {
+        "instruction": "Create a fictitious conversation for two characters discussing rabbits.",
+        "input": "",
+        "output": "Character 1: Did you know that rabbits are one of the most popular pets in the world?\n\nCharacter 2: Yes, I did. They're actually very fun to keep too. I heard they can be very affectionate.\n\nCharacter 1: Yeah, they sure can! They're also very smart animals.\n\nCharacter 2: Wow. Are they easy to take care of?\n\nCharacter 1: Absolutely! As long as they have proper nutrition and plenty of exercise, they're really easy to care for. And they make great companions.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Name three jobs related to computer programming",
+        "input": "",
+        "output": "Software Engineer, Software Developer, Web Developer.",
+        "model_response": ".\n\n\nThree jobs related to computer programming are programming, coding, and programming."
+    },
+    {
+        "instruction": "Which policies should the government implement to reduce poverty in low-income countries?",
+        "input": "",
+        "output": "The government should implement policies that focus on job creation and economic growth for low-income countries. Creating job opportunities for people living in extreme poverty can immediately provide them with a means of subsistence, helping them to move away from poverty and improve their lives. In addition, governments should provide access to vocational training, education, and health care, while providing incentives to encourage businesses to benefit the local communities where they are active. Governments should also prioritize agricultural policies, as access to good-quality land and resources can help low-income countries to produce their own food.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Design an AI technology capable of solving a given problem.",
+        "input": "Reducing the time needed to diagnose medical conditions.",
+        "output": "An AI-powered system could be designed to help with reducing the time needed to diagnose medical conditions. The system would be equipped with a deep learning algorithm that could use a combination of medical imaging, patient profiles, medical records, and medical research data to accurately diagnose medical conditions. It could also be integrated with natural language processing technology to allow patients to easily describe their symptoms and receive diagnostic information in real time.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Guess what is the opposite meaning of the word \"obscure\".",
+        "input": "",
+        "output": "The opposite meaning of the word \"obscure\" is clear.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Compare the features of HTML and CSS.",
+        "input": "",
+        "output": "HTML is a markup language used to create webpages while CSS is a styling language used to style webpages. HTML is used to create the structure of a webpage while CSS is used to format, or style, the content of a webpage. HTML tags define the content of a webpage while CSS rules define how the content is presented.",
+        "model_response": "Output the result.\n\n\nHTML and CSS are two major components of web development. HTML is used to structure the content of the web page, while CSS is used to format the HTML content. HTML is typically used to structure the content of the web page, while CSS is used to format the HTML content. HTML is typically used to structure the content of the web page, while CSS is used to format the HTML content. HTML is typically used to structure the content of the web page, while CSS is used to format the HTML content. HTML is typically used to structure the content of the web page, while CSS is used to format the HTML content. HTML is typically used to structure the content of the web page, while CSS is used to format the HTML content. HTML is typically used to structure the content of the web page, while CSS is used to format the HTML content. HTML is typically used to structure the content of the web page, while CSS is used to format the HTML content. HTML is typically used to structure the content of the web page, while CSS is used to format the HTML content. HTML is typically used to structure the content of the web page, while CSS is used to format the HTML content. HTML is typically used to structure the content of"
+    },
+    {
+        "instruction": "Combine two sentences together",
+        "input": "He likes to play basketball. She enjoys reading books.",
+        "output": "He likes to play basketball but she enjoys reading books.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Name three qualities an effective leader should have.",
+        "input": "",
+        "output": "An effective leader should have strong communication skills and the ability to motivate and inspire others, good decision-making skills, and the ability to create and maintain positive relationships with colleagues and other stakeholders.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Generate an NBA player trivia question.",
+        "input": "",
+        "output": "Who was the first NBA player to be named MVP of the All-Star game five times?\nThe answer is Kobe Bryant. He was named MVP of the All-Star game five times from 2002 to 2007.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Create a new word by combining the word \"heart\" and the word \"less\".",
+        "input": "",
+        "output": "The new word created by combining \"heart\" and \"less\" is \"heartless\".",
+        "model_response": ""
+    },
+    {
+        "instruction": "Clean the given data so that it is suitable for a Machine Learning model.",
+        "input": "[1.2, 0.6, a, 0.25, b, c, 0.7]",
+        "output": "[1.2, 0.6, 0.0, 0.25, 0.0, 0.0, 0.7]",
+        "model_response": ""
+    },
+    {
+        "instruction": "Provide statistics related to the total number of people in the world who use mobile phones.",
+        "input": "",
+        "output": "According to the latest estimates published by the International Telecommunication Union, 6.86 billion people - around 89% of the world\u2019s population - have mobile subscriptions as of 20",
+        "model_response": ""
+    },
+    {
+        "instruction": "Identify the fear of heights.",
+        "input": "",
+        "output": "The fear of heights is known as acrophobia.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Describe a person's strength and weakness",
+        "input": "John is a high school student.",
+        "output": "John's strength is his ability to think critically and solve problems. He is able to analyze complicated topics and come up with well thought-out solutions. His weakness is his lack of discipline -- he tends to procrastinate and be easily distracted when he is working on projects. He needs to learn how to focus and manage his time better if he wants to reach his full potential.",
+        "model_response": "He is a great basketball player and loves to play video games in his free time. He is also a great listener and loves to share his thoughts on any issue. He is also kind and compassionate, and loves animals. He is also a great cook and loves to cook for his friends. He is also a great swimmer and loves to swim in the sea. He is also a great speaker and loves to give speeches. He is also a great writer and loves to write about his thoughts and feelings. He is also a great listener and loves to share his thoughts on any issue. He is also kind and compassionate, and loves animals. He is also a great cook and loves to cook for his friends. He is also a great swimmer and loves to swim in the sea. He is also a great speaker and loves to give speeches. He is also a great writer and loves to write about his thoughts and feelings. He is also a great listener and loves to share his thoughts on any issue. He is also kind and compassionate, and loves animals. He is also a great cook and loves to cook for his friends. He is also a great swimmer and loves to swim in the sea. He is also a great speaker and loves to give speeches. He is also"
+    },
+    {
+        "instruction": "Identify the subject and the action of the sentence.",
+        "input": "The dog barked loudly.",
+        "output": "Subject: dog  Action: barked",
+        "model_response": ""
+    },
+    {
+        "instruction": "What is the one-sentence definition of machine learning?",
+        "input": "",
+        "output": "Machine learning is a form of artificial intelligence that enables computers to learn from data and improve performance over time.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Come up with a new way to use the following item: a teaspoon.",
+        "input": "",
+        "output": "A teaspoon can be used as a mini shovel for potted plants to help loosen up soil.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Devise a team motto for a robotics team.",
+        "input": "",
+        "output": "The robotics team motto could be \"Inventing the Future Together\".",
+        "model_response": ""
+    },
+    {
+        "instruction": "Write a nutritious food item with a catchy name.",
+        "input": "",
+        "output": "Energy Packed Superberries.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Output a list of 5 adjectives that describe the following noun.",
+        "input": "Country",
+        "output": "1. Diverse\n2. Eclectic\n3. Historic \n4. Vast\n5. Cultural",
+        "model_response": "Adjective 1: Rural\nAdjective 2: Rural\nAdjective 3: Rural\nAdjective 4: Rural\nAdjective 5: Rural"
+    },
+    {
+        "instruction": "Develop a program to find all the prime numbers in a given range.",
+        "input": "The range is from 4 to 20",
+        "output": "\"\"\"\nDevelop a program to find all the prime numbers in a given range.\n\ndef find_primes(start, end):\n    # Initialize a list\n    primes = []\n    for num in range(start, end + 1):\n        # prime numbers are greater than 1 \n        if num > 1:\n            for i in range(2, num): \n                if (num % i) == 0: \n                    break \n            else: \n                primes.append(num) \n    return primes\n\nif __name__ == \"__main__\":\n    start, end = 4, 20\n    prime_list = find_primes(start, end)\n    print(\"The prime numbers between\", start, \"and\", end, \"are\", prime_list)\n\n\"\"\"",
+        "model_response": "The program should contain a function that takes in a range of integers and returns an array of prime numbers. The function should iterate through each number in the range, testing for primality. If the number is prime, it should be added to the array. The function should return the array of prime numbers."
+    },
+    {
+        "instruction": "Is it possible to get a back-up for water tanks?",
+        "input": "",
+        "output": "Yes, it is possible to get a back-up for water tanks. A sump pump can act as a back-up and can be used to pump out and replace the water in a tank if it becomes depleted.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Calculate 45% of \u00a3150",
+        "input": "",
+        "output": "\u00a367.50",
+        "model_response": ".\n\n\n\u00a3150 x 0.45 = \u00a368"
+    },
+    {
+        "instruction": "Create a list of the most important features of a given product.",
+        "input": "Product: Mobile phone",
+        "output": "The most important features of a mobile phone include: \n1. Battery life \n2. Camera quality \n3. Processor speed \n4. Memory and storage capacity \n5. Operating system \n6. Display size and resolution \n7. Connectivity options, such as Wi-Fi and Bluetooth \n8. Durability \n9. Security features\n10. Audio quality",
+        "model_response": "The most important features of a mobile phone include its ability to make calls, send and receive text messages, take photos, play music, and use the internet."
+    },
+    {
+        "instruction": "Give me an example of a simple machine learning problem.",
+        "input": "",
+        "output": "An example of a simple machine learning problem is predicting a house's price based on its characteristics like size, location, number of rooms, etc. This problem can be solved with a regression model where the model is trained on historical data of house prices. Once the model is trained, it can be used to accurately predict the price of any new house.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Write an intro for a blog post about computer science.",
+        "input": "",
+        "output": "Computer science is an ever-evolving field that has opened up a myriad of opportunities and possibilities. From enabling us to communicate from opposite ends of the globe to powering self-driving cars, computer science continues to make incredible advancements every day. This blog will take an in-depth look at the various aspects of computer science, from its history to its impact on our lives today.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Generate a workplace safety protocol",
+        "input": "",
+        "output": "1. Employees should always follow safety protocols and procedures.\n2. Employees should wear the appropriate safety gear at all times. \n3. Employees should be aware of potential safety hazards in the workplace.\n4. Employees should report any safety hazards to management immediately.\n5. Management should ensure proper maintenance of all safety equipment.\n6. Management should conduct regular safety inspections of the workplace.\n7. Management should offer regular safety training to employees.\n8. Management should review safety protocols with employees on a regular basis.",
+        "model_response": "for a factory.\n\n\nA workplace safety protocol for a factory should include the following elements: \n1. Establish clear roles and responsibilities among workers and management. \n2. Establish regular safety inspections and ensure that workers are trained in safety practices. \n3. Establish a system to record and track accidents and injuries. \n4. Establish a system to record and track near misses. \n5. Establish a system to record and track hazards. \n6. Establish a system to record and track safety hazards. \n7. Establish a system to record and track safety hazards. \n8. Establish a system to record and track safety hazards. \n9. Establish a system to record and track safety hazards. \n10. Establish a system to record and track safety hazards."
+    },
+    {
+        "instruction": "Construct the sentence given the following parts.",
+        "input": "Noun: hamster\nVerb: skipping",
+        "output": "The hamster was skipping.",
+        "model_response": "The hamster was skipping in the garden."
+    },
+    {
+        "instruction": "Generate an article about environmental protection.",
+        "input": "",
+        "output": "Environmental protection is essential to maintaining a healthy planet, and it\u2019s everyone\u2019s responsibility to ensure that it\u2019s taken seriously. Climate change and pollution are two of the biggest challenges to our environment, and it\u2019s important that policymakers, businesses, and communities take steps to reduce the harm they\u2019re causing. This includes reducing our dependence on fossil fuels and investing in renewable energy sources; passing laws and regulations that protect air, water, and land; and encouraging people to adopt sustainable practices, like conserving water and recycling. Furthermore, we must educate the public about environmental issues and make sure that everyone understands the importance of protecting our planet and the solutions that are available. Together, we can make a difference and ensure that our planet stays healthy and vibrant for future generations.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Given a sentence, add an appropriate transition",
+        "input": "John failed the test. He was very upset.",
+        "output": "John failed the test, so he was very upset.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Create a website for an art gallery.",
+        "input": "",
+        "output": "The website for an art gallery should be user-friendly, visually appealing, and provide easy access to information about the gallery's offerings. It should include pages that showcase the artwork available, along with pages detailing the artist's works, gallery policies, contact information, and online purchasing. It should be optimized for mobile use as well, displaying the artwork properly across devices of all sizes. Additionally, the website should include a search feature to make it easy for users to find artwork by artist, medium, or subject.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Predict the reaction of the audience to this song:",
+        "input": "A singer is performing a beautiful acoustic folk tune.",
+        "output": "The audience will likely be captivated by the singer's performance and applaud when the song is over.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Create a headline for a business article",
+        "input": "",
+        "output": "5 Simple Tips to Increase Your Profits This Quarter",
+        "model_response": ".\n\n\n\"Creating a Successful Business: The Art of Managing Stress and Pressure\""
+    },
+    {
+        "instruction": "Suggest five tips for dressing well for a formal event.",
+        "input": "",
+        "output": "1. Start with the basics: Choose a well-tailored suit or dress in a classic color, such as black, navy, or gray.\n2. Accessorize: Add some flair with a subtle scarf, tie, pocket square, cufflinks, or watch.\n3. Check the details: Make sure your socks, shoes, and belt are in good condition and match the clothing you are wearing.\n4. Go for quality: Look for quality fabrics and seek out classic styles that won\u2019t go out of date.\n5. Have fun: Accessories like hats, canes, and even umbrellas can make a formal event more enjoyable and memorable.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Explain the concept of biodiversity and its importance?",
+        "input": "",
+        "output": "Biodiversity is the variety of life on Earth, encompassing all of the different species of plants, animals, fungi, and microorganisms. It is important because it protects our environment and ensures the resilience of ecosystems. It also helps to maintain ecological balance and essential services, such as pollination and nutrient cycling. Biodiversity is important for human health and well-being because it provides us with food, medicine, and other resources. Furthermore, it is also a key element of cultural and spiritual values, which can provide people with a sense of belonging and purpose. Protecting biodiversity is essential for preserving the beauty of the natural world and maintaining a healthy planet.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Create a headline for an article about the effects of global warming on the seafood industry",
+        "input": "",
+        "output": "\"Feeling the Heat: How Global Warming is Impacting the Seafood Industry\"",
+        "model_response": ".\n\n\n\"Climate Change and the Seafood Industry: How Global Warming is Affecting the Quality of Our Seafood\""
+    },
+    {
+        "instruction": "How long does it normally take a person to read 50 pages?",
+        "input": "",
+        "output": "It normally takes a person about 4 hours to read 50 pages.",
+        "model_response": ""
+    }
+]
